@@ -1,0 +1,10 @@
+To run
+sudo python mini.py
+
+I have created a circular topology where we have Y swicthes each having two hosts.
+All the switches are connected in a circular fashion.
+Odd numbered hosts have bandwidth of 1MBPS
+Even numbered hosts have bandwidth of 2MBPS
+Odd hosts can only ping each other
+Even hosts are only able to ping each other
+
